@@ -1,0 +1,6 @@
+[submodule "lib/arc"]
+	path = lib/arc
+	url = https://gitlab.com/Archeus_00/arc.git
+[submodule "lib/arc_cpp_overlay"]
+	path = lib/arc_cpp_overlay
+	url = https://gitlab.com/Archeus_00/arc_cpp_overlay.git
